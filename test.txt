@@ -1,8 +1,6 @@
 test test test
-<<<<<<< HEAD
 world
 world
-=======
 hello
 hello
->>>>>>> feature1
+this is a test
